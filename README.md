@@ -1,6 +1,14 @@
 # getting-started-with-the-vue-split-button-component
 The [Vue Split Button](https://www.syncfusion.com/vue-components/vue-split-button?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples) triggers a default action when the primary button is clicked and provides a list of actions when the drop-down button is clicked. A quick start project that shows how to add the Syncfusion Vue Split button component to a Vue application. It shows how to add a separator and display icons in the split button. It also shows how to customize the icon position.
 
+## Project prerequisites
+
+Make sure that you have the latest versions of NodeJS and Visual Studio Code in your machine before starting to work on this project.
+
+### How to run this application?
+
+To run this application, you need to clone the `getting-started-with-the-vue-split-button-component` repository and then open it in Visual Studio Code. Now, simply install all the necessary vue packages into your current project using the `npm install` command and run your project using the `npm run dev` command.
+
 ## Features and Benefits
 
 ### Menu items with icons
