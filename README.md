@@ -21,10 +21,10 @@ The pop-up is a toggleable container that holds a list of action items or custom
 
 ### Built-in themes
 
-The Vue Split Button supports built-in themes such as Bootstrap 5, Tailwind CSS, Fluent, high contrast, and more. Users can customize these built-in themes or create new themes to achieve the desired look and feel either by simply overriding SASS variables or using the Theme Studio application.
+The [Vue Split Button](https://www.syncfusion.com/vue-components/vue-split-button?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples) supports built-in themes such as Bootstrap 5, Tailwind CSS, Fluent, high contrast, and more. Users can customize these built-in themes or create new themes to achieve the desired look and feel either by simply overriding SASS variables or using the Theme Studio application.
 
 ## Related links
-[Learn More about Vue Split Button](https://www.syncfusion.com/vue-components/vue-split-button?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples)
+[Learn More about Vue Split Button](https://www.syncfusion.com/downloads/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples)
 
 [Download Free Trial](https://www.syncfusion.com/account/manage-trials/downloads?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples)
 
@@ -42,7 +42,7 @@ The Vue Split Button supports built-in themes such as Bootstrap 5, Tailwind CSS,
 
 ## About Syncfusion Vue Components
 
-Syncfusion's [Vue Components](https://www.syncfusion.com/vue-components?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples) library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Split Button, we provide popular Vue Components such as [Button](https://www.syncfusion.com/vue-components/vue-button?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples), [Badge](https://www.syncfusion.com/vue-components/vue-badge?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples), [Scheduler](https://www.syncfusion.com/vue-components/vue-scheduler?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples), [Diagram](https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples), and [Word Processor](https://www.syncfusion.com/vue-components/vue-word-processor?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples).
+Syncfusion's [Vue Components](https://www.syncfusion.com/vue-components?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples) library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Split Button, we provide popular Vue Components such as [Charts](https://www.syncfusion.com/vue-components/vue-charts?utm_source=github&utm_medium=listing&utm_campaign=vue-speed-dial-github-samples), [Grid](https://www.syncfusion.com/vue-components/vue-grid?utm_source=github&utm_medium=listing&utm_campaign=vue-speed-dial-github-samples), [Scheduler](https://www.syncfusion.com/vue-components/vue-scheduler?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples), [Diagram](https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples), and [Word Processor](https://www.syncfusion.com/vue-components/vue-word-processor?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples).
 
 ### About Syncfusion
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 29,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
@@ -52,5 +52,5 @@ Today, we provide 1800+ components and frameworks for web ([Blazor](https://www.
 <hr style="height:0.3px;border:none;color:lightgrey;background-color:lightgrey;" />
 
 <p align="center">
-<a href="mailto:sales@syncfusion.com?Subject=Syncfusion Vue Grid - GitHub" target="_top">sales@syncfusion.com</a> | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples)">www.syncfusion.com</a> | Toll Free: 1-888-9 DOTNET <br>
+<a href="mailto:sales@syncfusion.com?Subject=Syncfusion Vue Split Button - GitHub" target="_top">sales@syncfusion.com</a> | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples)">www.syncfusion.com</a> | Toll Free: 1-888-9 DOTNET <br>
 </p>
