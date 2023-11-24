@@ -17,16 +17,15 @@ Users tend to perceive visual information better than text. The Vue Split Button
 
 ### Pop-up menu
 
-The pop-up is a toggleable container that holds a list of action items or custom content that will open or close when the button is clicked. You can customize all the items in a pop-up.
+The [pop-up](https://ej2.syncfusion.com/vue/documentation/split-button/popup-items#popup-templating?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples) is a toggleable container that holds a list of action items or custom content that will open or close when the button is clicked. You can customize all the items in a pop-up.
 
-### Built-in themes
-
-The [Vue Split Button](https://www.syncfusion.com/vue-components/vue-split-button?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples) supports built-in themes such as Bootstrap 5, Tailwind CSS, Fluent, high contrast, and more. Users can customize these built-in themes or create new themes to achieve the desired look and feel either by simply overriding SASS variables or using the Theme Studio application.
+### Menu divider and separator
+You can use a horizontal line separator to represent similar action items as a group within the list of available items.
 
 ## Related links
-[Learn More about Vue Split Button](https://www.syncfusion.com/downloads/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples)
+[Learn More about Vue Split Button](https://www.syncfusion.com/vue-components/vue-split-button?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples)
 
-[Download Free Trial](https://www.syncfusion.com/account/manage-trials/downloads?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples)
 
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=vue-split-button-github-samples)
 
