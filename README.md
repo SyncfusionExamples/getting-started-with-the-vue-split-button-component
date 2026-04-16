@@ -1,61 +1,42 @@
 # Getting Started with the Vue Split Button Component
 
 ## Repository Description
-
-A quick start project demonstrating how to integrate the Syncfusion Vue Split button component into a Vue application, including separators, icons, and custom icon positioning.
+A quick start project that demonstrates how to integrate the Syncfusion Vue Split Button component into a Vue application, including examples of separator usage, icon display, and icon position customization for enhanced UI interactions.
 
 ## Overview
-
-This project provides a practical guide for implementing the Syncfusion Split Button component in Vue applications. The Split Button combines a standard button with a dropdown menu, enabling users to trigger primary actions or access additional options.
+This project provides a comprehensive guide for developers looking to implement the Syncfusion Vue Split Button component in their Vue applications. The Split Button is a versatile UI component that combines a primary action button with a dropdown menu, offering users multiple action options in a compact interface.
 
 ## Features
-
-- Split Button implementation and configuration
-- Separator support in dropdown menus
-- Icon display and customization
-- Icon positioning control (left, right, top)
-- Vue 3.x integration
+- **Split Button Integration**: Step-by-step instructions for adding the Syncfusion Vue Split Button component
+- **Icon Support**: Display custom icons within the split button for visual clarity
+- **Separator Management**: Learn how to add separators to organize dropdown menu items
+- **Icon Positioning**: Customize icon placement and styling within the component
+- **Vue.js Compatible**: Built for Vue applications with proper component integration
 
 ## Prerequisites
+- Node.js (v14.0 or higher)
+- Vue.js (v3.x or higher)
+- npm or yarn package manager
+- Basic knowledge of Vue components and component props
 
-- Node.js 12.x or higher
-- npm 6.x or higher
-- Vue.js 3.x
-- Syncfusion Vue components package
-
-## Installation
-
-1. Clone or download the project
-2. Install dependencies:
+## Installation & Setup
+1. Clone or download this project repository
+2. Install dependencies using npm or yarn:
    ```
    npm install
    ```
-3. Install Syncfusion Vue Split Button:
+3. Install Syncfusion Vue Split Button package:
    ```
-   npm install @syncfusion/ej2-vue-splitbutton
+   npm install @syncfusion/ej2-splitbuttons
    ```
 
-## Usage
+## Getting Started
+To get started with the Vue Split Button component, import the necessary modules and register the component in your Vue application. Follow the example implementations provided in this project to understand component configuration and customization options.
 
-Import and use the Split Button component in your Vue components:
+## Resources & Documentation
+- [Syncfusion Vue Documentation](https://www.syncfusion.com/vue-components)
+- [Split Button Component Guide](https://www.syncfusion.com/vue-components/vue-split-button)
+- Vue.js Official Documentation
 
-```vue
-<template>
-  <ejs-splitbutton :items="items" :iconCss="'e-icons e-edit'" />
-</template>
-```
-
-Configure dropdown items with separators and custom icons as needed.
-
-## Configuration
-
-The Split Button component supports various options including:
-
-- Button text and styling
-- Dropdown menu items and separators
-- Icon positioning and styling
-- Click handlers and event binding
-
-## Support
-
-For additional information, refer to the official Syncfusion Vue documentation and Vue.js integration guides.
+## License
+Refer to the LICENSE file for licensing information regarding this project and Syncfusion component usage.
